@@ -1,0 +1,50 @@
+.About {
+  background-color: blue;
+  width: 600px;
+  height: 150px;
+  border: 2px solid black;
+  position: relative;
+  left: 380px;
+  padding: 10px;
+}
+
+.navbar {
+  position: relative;
+  left: 350px;
+  background-color: blue;
+  border: 2px solid black;
+  width: 700px;
+  height: 40px;
+}
+
+body{
+  background-color: #E59047;
+}
+
+a {
+  text-decoration: none;
+  padding: 15px;
+  position: relative;
+  top: 10px;
+  left: 180px;
+  color: black;
+}
+
+a:hover#link{
+  background-color: black;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 130%;
+}
+
+img {
+  width: 10%;
+}
+
+#instapic {
+  width: 10%;
+}
